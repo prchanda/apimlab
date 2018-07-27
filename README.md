@@ -1,2 +1,2 @@
 # apimlab
-This project is contains all the required code files to setup labs for APIM troubleshooting series
+This project contains all the required source code / binaries to setup labs for APIM troubleshooting series.
