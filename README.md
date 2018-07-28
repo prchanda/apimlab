@@ -8,7 +8,7 @@ This project contains all the required source code / binaries to setup labs for 
 5.	Navigate to the extracted directory and run the following got commands in sequence to push the local repository to your APIM instance.
 
     
-    git remote set-url origin <Your APIM repository URL>
+    git remote set-url origin {Your APIM repository URL}
         
     git push -f origin master
 
