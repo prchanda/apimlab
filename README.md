@@ -8,6 +8,6 @@ This project contains all the required source code / binaries to setup labs for 
 5.	Navigate to the extracted directory and run the following got commands in sequence to push the local repository to your APIM instance.
 
     a.	git remote set-url origin <Your APIM repository URL>
-    b.	git push -f origin master
+   b.	git push -f origin master
 
 6.	Open the ProductStore solution (which you have downloaded in Step - 2) using Visual Studio and deploy / publish it to a new or existing App Service.
