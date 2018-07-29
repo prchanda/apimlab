@@ -41,5 +41,3 @@ If your local Git repository is corrupted you may get these below errors. Runnin
 - **remote: error: unable to write sha1 filename ./objects/pack/pack-5aa087b92d89d817608f3f7809848e2297dea2d6.pack: Permission denied**
 - **remote: fatal: cannot store pack file**
 - **error: remote unpack failed: index-pack abnormal exit**
-
-
