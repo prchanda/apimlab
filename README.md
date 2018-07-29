@@ -13,6 +13,7 @@ This project contains all the required source code / binaries to setup labs for 
     **git push -f origin master**
 
 7. Open up the Azure Portal and navigate to your APIM instance created in step 4. Under APIs blade change the backend url of the `ProductStore` API to the your App Service endpoint like below and Save it.
+<br />
 
 
 ![Image of Yaktocat](https://github.com/prchanda/apimlab/blob/Images/ProductStore%20setting.png)
