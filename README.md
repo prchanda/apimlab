@@ -3,7 +3,7 @@ This project contains all the required source code / binaries to setup labs for 
 
 1.	Install Git client for windows. You can download the setup file from here : https://git-scm.com/download/win
 2.	Git clone or download the backend API project from this GitHub repo : https://github.com/prchanda/ProductStore
-3.  Deploy / publish the ProductStore solution (backend API project) to a new or existing App Service.
+3.  Deploy / publish the ProductStore solution (backend API project) to a new or existing App Service using Visual Studio or any other deployment tool of your choice.
 4.  Create an APIM instance. You can refer this article : https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance
 5.  Download the APIM lab GitHub repository *apimlab.scm.azure-api.net.zip* from here : https://github.com/prchanda/apimlab/blob/master/apimlab.scm.azure-api.net.zip and extract it in your local drive.
 6.	Navigate to the extracted directory and run the following git commands in sequence to push the local repository to your APIM instance.
