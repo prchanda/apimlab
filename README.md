@@ -1,5 +1,5 @@
 # APIM Troubleshooting Series Lab Instructions
-This project contains all the required source code / binaries to setup labs for [APIM troubleshooting series](https://blogs.msdn.microsoft.com/pratyay/2018/07/29/azure-api-management-troubleshooting-series/). Here are the perquisites you need to follow in sequential fashion to setup the lab:-
+This project contains all the required source code / binaries to setup labs for [APIM troubleshooting series](https://blogs.msdn.microsoft.com/pratyay/2018/07/29/azure-api-management-troubleshooting-series/). Here are the steps you need to follow in sequential fashion to setup the lab:-
 
 1.	Install Git client for windows. You can download the setup file from here : https://git-scm.com/download/win
 2.	Git clone or download the backend API project from this GitHub repo : https://github.com/prchanda/ProductStore
