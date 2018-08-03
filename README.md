@@ -16,7 +16,7 @@ This project contains all the required source code / binaries to setup labs for 
 <br />
 
 
-![Image of Yaktocat](https://github.com/prchanda/apimlab/blob/Images/ProductStore%20setting.png)
+![ProductStore Setting](https://github.com/prchanda/apimlab/blob/Images/ProductStore%20setting.png)
 
 
 
