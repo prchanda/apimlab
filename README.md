@@ -6,13 +6,15 @@ This project contains all the required source code / binaries to setup labs for 
 3.  Deploy / publish the ProductStore solution (backend API project) to a new or existing App Service using Visual Studio or any other deployment tool of your choice.
 4.  Create an APIM instance. You can refer this article : https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance
 5.  Download the APIM lab GitHub repository *apimlab.scm.azure-api.net.zip* from here : https://github.com/prchanda/apimlab/blob/master/apimlab.scm.azure-api.net.zip and extract it in your local drive.
-6.	Navigate to the extracted directory and run the following git commands in sequence to push the local repository to your APIM instance.
+6.	Navigate to the extracted directory and run the following git commands in sequence to push the local repository to your APIM Git repository.
 
     **git remote set-url origin {Your APIM repository URL}**
         
     **git push -f origin master**
 
-7. Open up the Azure Portal and navigate to your APIM instance created in step 4. Under APIs blade change the backend url of the `ProductStore` API to the your App Service endpoint like below and Save it.
+7. Click on the "Deploy to API Management" option to trigger the APIM deployment from it's Git repository.
+
+8. Open up the Azure Portal and navigate to your APIM instance created in step 4. Under APIs blade change the backend url of the `ProductStore` API to the your App Service endpoint like below and Save it.
 <br />
 
 
